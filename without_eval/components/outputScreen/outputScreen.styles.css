@@ -1,0 +1,13 @@
+.output {
+  display: flex;
+  height: 4em;
+  flex: 1;
+  background-color: rgb(38, 204, 182);
+  outline: 1px solid #888;
+  color: #fff;
+  justify-content: flex-end;
+  padding: 0.5em;
+  font-weight: bold;
+  font-size: 1.4em;
+  align-items: center;
+}

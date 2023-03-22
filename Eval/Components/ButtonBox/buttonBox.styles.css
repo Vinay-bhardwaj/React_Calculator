@@ -1,0 +1,8 @@
+.Keypad {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 80%;
+    margin-left: 500px;
+    margin-right: 500px;
+}
